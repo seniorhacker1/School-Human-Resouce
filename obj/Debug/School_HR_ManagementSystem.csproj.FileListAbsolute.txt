@@ -1,0 +1,10 @@
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\bin\Debug\School_HR_ManagementSystem.exe.config
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\bin\Debug\School_HR_ManagementSystem.exe
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\bin\Debug\School_HR_ManagementSystem.pdb
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\obj\Debug\School_HR_ManagementSystem.csprojAssemblyReference.cache
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\obj\Debug\School_HR_ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\obj\Debug\School_HR_ManagementSystem.exe
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\obj\Debug\School_HR_ManagementSystem.pdb
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\bin\Debug\HR_admenstration.dll
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\bin\Debug\HR_admenstration.pdb
+C:\Users\#Ammorry\source\repos\School_HR_ManagementSystem\School_HR_ManagementSystem\obj\Debug\School_HR_ManagementSystem.csproj.CopyComplete
